@@ -1,0 +1,9 @@
+2025-08-03 17:36:34,417 - matplotlib.font_manager - INFO - generated new fontManager
+2025-08-03 17:47:50,846 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 17:51:18,755 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 17:51:18,765 - main - ERROR - Telegram bot error: There is no current event loop in thread 'Thread-2 (start_telegram)'.
+2025-08-03 17:51:18,767 - py.warnings - WARNING - F:\SASTASMART_\SastaSmart\backend\main.py:548: RuntimeWarning: coroutine 'Updater.start_polling' was never awaited
+  logger.error(f"Telegram bot error: {e}")
+
+2025-08-03 17:51:18,769 - discord.client - INFO - logging in using static token
+2025-08-03 17:51:19,254 - main - ERROR - Discord bot error: Improper token has been passed.
